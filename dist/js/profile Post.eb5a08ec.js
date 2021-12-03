@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["profile Post"],{"6d1d":function(e,t,n){"use strict";n.r(t);var o=function(){var e=this,t=e.$createElement,n=e._self._c||t;return n("div",{staticClass:"home"})},s=[],a={name:"ProfilePost",components:{}},c=a,i=n("2877"),l=Object(i["a"])(c,o,s,!1,null,"940be7fe",null);t["default"]=l.exports}}]);
+//# sourceMappingURL=profile Post.eb5a08ec.js.map
