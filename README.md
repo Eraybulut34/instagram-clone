@@ -1,5 +1,7 @@
 # instagram-clone
 
+# Clone of Instagram with vue.js,css,postcss, javascript.
+
 ## Project setup
 ```
 npm install
