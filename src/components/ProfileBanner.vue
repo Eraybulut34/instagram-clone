@@ -24,8 +24,8 @@ export default {
   display: flex;
 }
 .username{
-   padding-top: 30px;
-   padding-left: 70px;
-   font-size: 22px;
+   padding-top: 1.9rem;
+   padding-left: 4.5rem;
+   font-size: 1.4rem;
 }
 </style>
