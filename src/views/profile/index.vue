@@ -35,7 +35,7 @@ export default {
     min-width: none;
     display: grid;
     grid-template-columns: 1fr 18.5rem;
-    grid-gap: 30px;
+    grid-gap: 1.8rem;
   }
 }
 .nav{
