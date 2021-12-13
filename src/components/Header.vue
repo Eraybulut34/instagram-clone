@@ -99,7 +99,7 @@ height: var(--header-height);
   bottom: 0;
   background-color: white;
   border-top: 1px solid rgb(var(--b6a));
-  height: 80px;
+  height: 5rem;
   display: flex;
   align-items: center;
   justify-content: space-around;
@@ -109,7 +109,7 @@ height: var(--header-height);
     position: static;
     justify-content: flex-end;
     a {
-      margin-left: 20px;
+      margin-left: 1.3rem;
     }
   }
 }
