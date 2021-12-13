@@ -19,12 +19,12 @@ export default {
 
 <style scoped>
 .story-bar {
-  height: 60px;
+  height: 4rem;
   align-items: center;
   border-block: rgba(255, 255, 255, 0.925);
   display: inline-block;
 }
 avatar {
-  padding-left: 8px;
+  padding-left: 0.5px;
 }
 </style>
