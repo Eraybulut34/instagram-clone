@@ -27,14 +27,14 @@ export default {
 
 <style scoped>
 .home{
-   min-width: 605px;
+   min-width: 38rem;
   margin-left: auto;
   margin-right: auto;
 
   @media (--t) {
     min-width: none;
     display: grid;
-    grid-template-columns: 1fr 295px;
+    grid-template-columns: 1fr 18.5rem;
     grid-gap: 30px;
   }
 }
