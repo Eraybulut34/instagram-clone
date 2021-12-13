@@ -59,8 +59,8 @@ export default {
 .post{
 border-radius: 3px;
 border: 1px solid rgb(var(--b6a));
-max-width: 450px;
-margin-bottom: 50px;
+max-width: 28rem;
+margin-bottom: 3rem;
 
 
 @media (--t){
@@ -71,16 +71,16 @@ margin-bottom: 50px;
 }
 }
 .header{
-  height: 60px;
+  height: 4rem;
   display: flex;
   align-items: center;
-  padding-left: 16px;
-padding-right: 16px;
+  padding-left: 1rem;
+padding-right: 1rem;
   &-author{
   display: flex;
   align-items: center;
 &-info{
-  margin-left: 4px;
+  margin-left: 0.25rem;
 }
 
   }
@@ -89,15 +89,15 @@ margin-left: auto;
   }
 }
 button{
-  margin-left: 5px;
+  margin-left: 0.3rem;
 }
 
 .action-buttons{
-  height: 45px;
+  height: 3rem;
   display: flex;
   align-items: center;
-  padding-left: 16px;
-padding-right: 16px;
+  padding-left: 1rem;
+padding-right: 1rem;
 
 
 }
